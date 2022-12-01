@@ -79,7 +79,7 @@ If you are not able to use Tailwind CSS, open official Tailwind CSS website and 
 
 ## Authors
 
-- [@Bapu-Gouda](https://github.com/Bapu-project-on)
+- [@Bapu-Gouda](https://github.com/Bapurajj-Biradar)
 - [@Venkatesha](https://github.com/venkateshb007)
 
 ## Acknowledgements
